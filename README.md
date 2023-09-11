@@ -1,0 +1,2 @@
+# SimuladordeDado
+Simulador de dado
